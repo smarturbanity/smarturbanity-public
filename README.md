@@ -40,7 +40,7 @@ More on the project: [www.smarturbanity.com](https://www.smarturbanity.com) and 
 
 ```
 smarturbanity-public/
-├── deliverables/     Public project deliverables (PDF)
+├── deliverables/     Links to the project deliverables (hosted on the website)
 ├── publications/     Peer-reviewed papers, conference papers and posters
 ├── presentations/    Slides from conferences, workshops and project events
 ├── media/            Logos, banners, photos and other communication material
@@ -52,24 +52,28 @@ smarturbanity-public/
 
 | Folder | Contents |
 |---|---|
-| [`deliverables/`](deliverables/) | Deliverables with dissemination level **Public**, in their final, approved version |
+| [`deliverables/`](deliverables/) | Download links to the project deliverables, which are hosted on the project website |
 | [`publications/`](publications/) | Open-access versions of scientific outputs (author accepted manuscripts or published versions where permitted) |
 | [`presentations/`](presentations/) | Slides and posters presented at conferences, stakeholder workshops and consortium events |
 | [`media/`](media/) | Official SmartUrbanity logos, banners and event photos for press and partner communication |
 | [`open-data/`](open-data/) | Anonymised and aggregated datasets released following FAIR principles, each with a README describing sources, methods and variables |
 
-## Public deliverables
+## Deliverables
 
-| No. | Title | Lead | Work package |
-|---|---|---|---|
-| D1.0 | Inception Report | CTLup | WP1 Project Management |
-| D2.1 | Concept Knowledge Report | KIT | WP2 Research and Analysis |
-| D2.2 | Framework Blueprint | HUN-REN SZTAKI | WP2 Research and Analysis |
-| D2.3 | Model and Data Management System | ZHAW | WP2 Research and Analysis |
-| D2.4 | User Insights and Design Recommendations | ENTPE | WP2 Research and Analysis |
-| D6.1 | Dissemination Materials Package | ZHAW | WP6 Dissemination and Knowledge Sharing |
+| No. | Title | Lead | Work package | Download |
+|---|---|---|---|---|
+| D1.0 | Inception Report | CTLup | WP1 Project Management | [PDF](https://www.smarturbanity.com/download/D1.0) |
+| D1.1 | Technical and Financial Management Strategy | CTLup | WP1 Project Management | [PDF](https://www.smarturbanity.com/download/D1.1) |
+| D1.2 | Communication and Engagement Strategy | Sapienza | WP1 Project Management | [PDF](https://www.smarturbanity.com/download/D1.2) |
+| D1.3 | Data Management and Risk Mitigation | CTLup | WP1 Project Management | [PDF](https://www.smarturbanity.com/download/D1.3) |
+| D1.4 | Monitoring, Quality Control and Ethics | Sapienza | WP1 Project Management | [PDF](https://www.smarturbanity.com/download/D1.4) |
+| D2.1 | Concept Knowledge Report | KIT | WP2 Research and Analysis | [PDF](https://www.smarturbanity.com/download/D2.1) |
+| D2.2 | Framework Blueprint | HUN-REN SZTAKI | WP2 Research and Analysis | [PDF](https://www.smarturbanity.com/download/D2.2) |
+| D2.3 | Model and Data Management System | ZHAW | WP2 Research and Analysis | [PDF](https://www.smarturbanity.com/download/D2.3) |
+| D2.4 | User Insights and Design Recommendations | ENTPE | WP2 Research and Analysis | [PDF](https://www.smarturbanity.com/download/D2.4) |
+| D6.1 | Dissemination Materials Package | ZHAW | WP6 Dissemination and Knowledge Sharing | [PDF](https://www.smarturbanity.com/download/D6.1) |
 
-The files are in [`deliverables/`](deliverables/) and can also be downloaded from the [project website](https://www.smarturbanity.com/deliverables). Further public deliverables, including the app and platform prototypes, pilot reports, policy recommendations and roadmaps, will be added here once approved.
+The PDFs are hosted on the [project website](https://www.smarturbanity.com/deliverables); each link downloads the file. Further deliverables, including the app and platform prototypes, pilot reports, policy recommendations and roadmaps, will be added once approved.
 
 ## Publications
 
@@ -83,7 +87,6 @@ To keep the archive easy to browse, files follow these conventions:
 
 | Type | Pattern | Example |
 |---|---|---|
-| Deliverable | `D<WP>.<n>_<Short_Title>.pdf` | `D2.1_Concept_Knowledge_Report.pdf` |
 | Publication | `<YYYY>_<FirstAuthor>_<Short_Title>.pdf` | `2025_Muratori_DRT_Thurgau.pdf` |
 | Presentation | `<YYYY-MM-DD>_<Event>_<Short_Title>.pdf` | `2026-10-15_Izmir_Consortium_Meeting.pdf` |
 | Dataset | `<pilot>_<topic>_<YYYY>/` with its own `README.md` | `rome_accessibility_survey_2026/` |
