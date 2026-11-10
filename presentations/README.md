@@ -2,9 +2,9 @@
 
 Slides and posters presented at conferences, stakeholder workshops and project events, shared as PDF.
 
-| File | Description |
+| Link | Description |
 |---|---|
-| [SmartUrbanity_Project_Overview_Learn_More.pdf](SmartUrbanity_Project_Overview_Learn_More.pdf) | "Learn more about SmartUrbanity": 18-page project overview covering the urban challenge, vision, consortium, pilot cities, key figures, expected impacts and the digital toolkit (November 2025) |
+| [Learn more about SmartUrbanity (PDF)](https://www.smarturbanity.com/assets/docs/SmartUrbanity_Learn_More.pdf) | "Learn more about SmartUrbanity": 18-page project overview covering the urban challenge, vision, consortium, pilot cities, key figures, expected impacts and the digital toolkit (November 2025) |
 
 Naming: `<YYYY-MM-DD>_<Event>_<Short_Title>.pdf`, for example `2026-10-08_Izmir_General_Assembly.pdf`.
 
